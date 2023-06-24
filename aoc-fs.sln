@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "aoc-fs", "aoc-fs.fsproj", "{DA9DB4C2-B1E8-4752-A994-236904B505F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9DB4C2-B1E8-4752-A994-236904B505F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9DB4C2-B1E8-4752-A994-236904B505F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9DB4C2-B1E8-4752-A994-236904B505F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9DB4C2-B1E8-4752-A994-236904B505F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {070F2315-F6BD-4666-AD01-A6C3E91BCB0F}
+	EndGlobalSection
+EndGlobal
